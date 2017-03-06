@@ -14,4 +14,11 @@ public class Administrator {
     {
         
     }
+
+    @Override
+    public String toString() {
+        return "Administrator{" + '}';
+    }
+    
+    
 }

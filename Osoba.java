@@ -10,5 +10,8 @@ package git_nauka;
  * @author Mateusz
  */
 public class Osoba {
+
+    public Osoba() {
+    }
     
 }
